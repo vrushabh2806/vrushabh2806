@@ -50,7 +50,7 @@ Day 3: File Uploading with Multer • Implemented file uploading using the Multe
 Day 4: File Management • Added features to manage uploaded files. • Tested file upload and management functionalities.
 
 Day 5: Testing and Finalization • Conducted thorough testing of the forget and reset password features. • Finalized the file uploading and management functionalities.
-## Week 4 Outline of Week 4: 
+## Week 4 : 
 ### Understanding Project Definition Work on Blog Website Project Create Dashboard Add CSS for Dashboard Add Search Functionality Make a Login and Register Page Add Latest Posts to Dashboard Database Integration 📝 Day-by-Day Progress ⌛ Day 1: Understanding Project Definition • Thoroughly reviewed the project requirements and objectives. • Researched existing blog websites to gather insights and best practices.
 
 Day 2: Planning and Design • Designed the layout and features of the blog website. • Planned the database schema and project structure.
